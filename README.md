@@ -1,2 +1,4 @@
 # wft_scraper
-Scrape products from Whole Foods &amp; Target
+Scrape products from Whole Foods (wholefoods.ipynb)
+
+
